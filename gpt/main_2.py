@@ -4,7 +4,7 @@ import os
 
 azure_endpoint = os.environ["CHATBOT_AZURE_OPENAI_ENDPOINT"] 
 api_key = os.environ["CHATBOT_AZURE_OPENAI_API_KEY"]
-deployment_name = "gpt-4o-mini"
+deployment_name = "gpt-4o"
 api_version = "2024-08-01-preview"
 
 # Azure OpenAI クライアントを作成  
