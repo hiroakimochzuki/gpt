@@ -68,7 +68,7 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: cc1f200d-1fac-49f0-a0fe-19e5c7540c1f
+          client-id: mochizuki@microlink.co.jp
           tenant-id: abaf7467-5b78-4198-bcf3-4f5a82b54223
           subscription-id: 73c27e8d-7e51-4f69-a720-b612b574874a
 
